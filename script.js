@@ -1,25 +1,26 @@
 // Link Data Structure
 const data = {
     personal: [
-        { name: "My Portfolio", url: "https://example.com/portfolio" },
-        { name: "GitHub", url: "https://github.com" },
-        { name: "LinkedIn", url: "https://linkedin.com" },
-        { name: "Twitter", url: "https://twitter.com" },
-        { name: "My Portfolio", url: "https://example.com/portfolio" },
-        { name: "GitHub", url: "https://github.com" },
-        { name: "LinkedIn", url: "https://linkedin.com" },
+        { name: "My Portfolio", url: "https://loga-prabakar.vercel.app" },
+     //   { name: "GitHub", url: "https://github.com" },
+        { name: "LinkedIn", url: "https://www.linkedin.com/in/loga-prabakar-vs-498371290/" },
+     //   { name: "Twitter", url: "https://twitter.com" },
+        { name: "My Photography", url: "https://frames-of-lamuriyan.vercel.app" },
+         { name: "Instagram", url: "https://www.instagram.com/frames_of_lamuriyan?obf=cHAyMHEweW1waXNz" },
+      //  { name: "GitHub", url: "https://github.com" },
+      //  { name: "LinkedIn", url: "https://linkedin.com" },
     ],
     company: [
-        { name: "Company Dashboard", url: "https://company.com/dashboard" },
-        { name: "Webmail", url: "https://mail.company.com" },
-        { name: "HR Portal", url: "https://hr.company.com" },
-        { name: "Project Management", url: "https://projects.company.com" }
+        { name: "Webiste", url: "https://q2qitsolutions.vercel.app" },
+        { name: "Mail", url: "quick2quality.it.solutions@zohomail.in" },
+      //  { name: "HR Portal", url: "https://hr.company.com" },
+        { name: "LinkedIN", url: "https://www.linkedin.com/company/q2q-it-solutions" }
     ],
     demo: [
-        { name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
-        { name: "Sample Website 1", url: "https://example.com", username: "user1", password: "password123" },
-        { name: "Demo Application", url: "https://demo.example.com", username: "admin", password: "admin_password" },
-        { name: "Test Portal", url: "https://test.com", username: "test_user", password: "test_password" }
+        //{ name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
+        { name: "CRM Application", url: "https://dem0-crm.vercel.app/", username: "demo", password: "demo" },
+        { name: "Amenity Menu", url: "https://amenity-sece.vercel.app/", username: "amenitysece@gmail.com", password: "@menity_@dmin_$ece" },
+        { name: "Milkymist Menu", url: "https://milkymistdairy-stall.vercel.app/", username: "milkymistdairy@gmail.com", password: "d@iry_@dmin_$ece$hop" }
     ]
 };
 
