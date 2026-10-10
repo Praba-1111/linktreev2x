@@ -12,15 +12,15 @@ const data = {
     ],
     company: [
         { name: "Webiste", url: "https://q2qitsolutions.vercel.app" },
-        { name: "Mail", url: "quick2quality.it.solutions@zohomail.in" },
       //  { name: "HR Portal", url: "https://hr.company.com" },
-        { name: "LinkedIN", url: "https://www.linkedin.com/company/q2q-it-solutions" }
+        { name: "LinkedIN", url: "https://www.linkedin.com/company/q2q-it-solutions" },
+        { name: "Instagram", url: "https://www.instagram.com/q2q_it_solutions?stkn=dzZ0cDBraGVuaG5q" },
     ],
     demo: [
         //{ name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
         { name: "CRM Application", url: "https://dem0-crm.vercel.app/", username: "demo", password: "demo" },
         { name: "Amenity Menu", url: "https://amenity-sece.vercel.app/", username: "amenitysece@gmail.com", password: "@menity_@dmin_$ece" },
-        { name: "Milkymist Menu", url: "https://milkymistdairy-stall.vercel.app/", username: "milkymistdairy@gmail.com", password: "d@iry_@dmin_$ece$hop" }
+        { name: "Milkymist Menu", url: "https://milkymistdairy-stall.vercel.app/", username: "milkymistdairy@gmail.com", password: "d@iry_@dmin_$ece$hop" },
     ]
 };
 
