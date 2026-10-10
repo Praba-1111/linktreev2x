@@ -9,18 +9,27 @@ const data = {
          { name: "Instagram", url: "https://www.instagram.com/frames_of_lamuriyan?obf=cHAyMHEweW1waXNz" },
       //  { name: "GitHub", url: "https://github.com" },
       //  { name: "LinkedIn", url: "https://linkedin.com" },
+         //  { name: "HR Portal", url: "https://hr.company.com" },
+         //  { name: "HR Portal", url: "https://hr.company.com" },
     ],
     company: [
         { name: "Webiste", url: "https://q2qitsolutions.vercel.app" },
       //  { name: "HR Portal", url: "https://hr.company.com" },
         { name: "LinkedIN", url: "https://www.linkedin.com/company/q2q-it-solutions" },
         { name: "Instagram", url: "https://www.instagram.com/q2q_it_solutions?stkn=dzZ0cDBraGVuaG5q" },
+         //  { name: "HR Portal", url: "https://hr.company.com" },
+         //  { name: "HR Portal", url: "https://hr.company.com" },
+         //  { name: "HR Portal", url: "https://hr.company.com" },
     ],
     demo: [
         //{ name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
         { name: "CRM Application", url: "https://dem0-crm.vercel.app/", username: "demo", password: "demo" },
         { name: "Amenity Menu", url: "https://amenity-sece.vercel.app/", username: "amenitysece@gmail.com", password: "@menity_@dmin_$ece" },
         { name: "Milkymist Menu", url: "https://milkymistdairy-stall.vercel.app/", username: "milkymistdairy@gmail.com", password: "d@iry_@dmin_$ece$hop" },
+         { name: "Expance Tracker", url: "https://expance-trackerstonewave.vercel.app", username: "loga_123", password: "loga_123" },
+         { name: "Img to PDF", url: "https://img-2-pdf-png-jpg-converter-stonewave.netlify.app", username: "NILL", password: "NILL" },
+         //{ name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
+         //{ name: "Frames.com", url: "https://frames.com", username: "demo_user", password: "demo_password" },
     ]
 };
 
